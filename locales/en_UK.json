@@ -1,0 +1,857 @@
+{
+	"rsmConfirmModal": {
+		"Remove": {
+			"Title": "Remove ",
+			"Body": "Are you sure you want to remove the ",
+			"Leave": "Remove",
+			"Stay": "Don't Remove"
+		},
+		"Unsaved": {
+			"Title": "Unsaved Changes",
+			"Body": "Your changes have not been saved. Are you sure you want to leave this page",
+			"Leave": "Leave this Page",
+			"Stay": "Stay on this Page"
+		}
+	},
+	"LanguagesService": {
+		"aa": "Afar",
+		"ab": "Abkhazian",
+		"af": "Afrikaans",
+		"ak": "Akan",
+		"am": "Amharic",
+		"an": "Aragonese",
+		"ar": "Arabic",
+		"as": "Assamese",
+		"av": "Avar",
+		"ay": "Aymara",
+		"az": "Azerbaijani",
+		"ba": "Bashkir",
+		"be": "Belarusian",
+		"bg": "Bulgarian",
+		"bh": "Bihari",
+		"bi": "Bislama",
+		"bm": "Bambara",
+		"bn": "Bengali",
+		"bo": "Tibetan",
+		"br": "Breton",
+		"bs": "Bosnian",
+		"ca": "Catalan",
+		"ce": "Chechen",
+		"ch": "Chamorro",
+		"co": "Corsican",
+		"cr": "Cree",
+		"cs": "Czech",
+		"cu": "Old Church Slavonic / Old Bulgarian",
+		"cv": "Chuvash",
+		"cy": "Welsh",
+		"da": "Danish",
+		"de": "German",
+		"dv": "Divehi",
+		"dz": "Dzongkha",
+		"ee": "Ewe",
+		"el": "Greek",
+		"en": "English",
+		"eo": "Esperanto",
+		"es": "Spanish",
+		"et": "Estonian",
+		"eu": "Basque",
+		"fa": "Persian",
+		"ff": "Peul",
+		"fi": "Finnish",
+		"fj": "Fijian",
+		"fo": "Faroese",
+		"fr": "French",
+		"fy": "West Frisian",
+		"ga": "Irish",
+		"gd": "Scottish Gaelic",
+		"gl": "Galician",
+		"gn": "Guarani",
+		"gu": "Gujarati",
+		"gv": "Manx",
+		"ha": "Hausa",
+		"he": "Hebrew",
+		"hi": "Hindi",
+		"ho": "Hiri Motu",
+		"hr": "Croatian",
+		"ht": "Haitian",
+		"hu": "Hungarian",
+		"hy": "Armenian",
+		"hz": "Herero",
+		"ia": "Interlingua",
+		"id": "Indonesian",
+		"ie": "Interlingue",
+		"ig": "Igbo",
+		"ii": "Sichuan Yi",
+		"ik": "Inupiak",
+		"io": "Ido",
+		"is": "Icelandic",
+		"it": "Italian",
+		"iu": "Inuktitut",
+		"ja": "Japanese",
+		"jv": "Javanese",
+		"ka": "Georgian",
+		"kg": "Kongo",
+		"ki": "Kikuyu",
+		"kj": "Kuanyama",
+		"kk": "Kazakh",
+		"kl": "Greenlandic",
+		"km": "Cambodian",
+		"kn": "Kannada",
+		"ko": "Korean",
+		"kr": "Kanuri",
+		"ks": "Kashmiri",
+		"ku": "Kurdish",
+		"kv": "Komi",
+		"kw": "Cornish",
+		"ky": "Kirghiz",
+		"la": "Latin",
+		"lb": "Luxembourgish",
+		"lg": "Ganda",
+		"li": "Limburgian",
+		"ln": "Lingala",
+		"lo": "Laotian",
+		"lt": "Lithuanian",
+		"lv": "Latvian",
+		"mg": "Malagasy",
+		"mh": "Marshallese",
+		"mi": "Maori",
+		"mk": "Macedonian",
+		"ml": "Malayalam",
+		"mn": "Mongolian",
+		"mo": "Moldovan",
+		"mr": "Marathi",
+		"ms": "Malay",
+		"mt": "Maltese",
+		"my": "Burmese",
+		"na": "Nauruan",
+		"nd": "North Ndebele",
+		"ne": "Nepali",
+		"ng": "Ndonga",
+		"nl": "Dutch",
+		"nn": "Norwegian Nynorsk",
+		"no": "Norwegian",
+		"nr": "South Ndebele",
+		"nv": "Navajo",
+		"ny": "Chichewa",
+		"oc": "Occitan",
+		"oj": "Ojibwa",
+		"om": "Oromo",
+		"or": "Oriya",
+		"os": "Ossetian / Ossetic",
+		"pa": "Panjabi / Punjabi",
+		"pi": "Pali",
+		"pl": "Polish",
+		"ps": "Pashto",
+		"pt": "Portuguese",
+		"qu": "Quechua",
+		"rm": "Raeto Romance",
+		"rn": "Kirundi",
+		"ro": "Romanian",
+		"ru": "Russian",
+		"rw": "Rwandi",
+		"sa": "Sanskrit",
+		"sc": "Sardinian",
+		"sd": "Sindhi",
+		"se": "Northern Sami",
+		"sg": "Sango",
+		"sh": "Serbo-Croatian",
+		"si": "Sinhalese",
+		"sk": "Slovak",
+		"sl": "Slovenian",
+		"sm": "Samoan",
+		"sn": "Shona",
+		"so": "Somalia",
+		"sq": "Albanian",
+		"sr": "Serbian",
+		"ss": "Swati",
+		"st": "Southern Sotho",
+		"su": "Sundanese",
+		"sv": "Swedish",
+		"sw": "Swahili",
+		"ta": "Tamil",
+		"te": "Telugu",
+		"tg": "Tajik",
+		"th": "Thai",
+		"ti": "Tigrinya",
+		"tk": "Turkmen",
+		"tl": "Tagalog / Filipino",
+		"tn": "Tswana",
+		"to": "Tonga",
+		"tr": "Turkish",
+		"ts": "Tsonga",
+		"tt": "Tatar",
+		"tw": "Twi",
+		"ty": "Tahitian",
+		"ug": "Uyghur",
+		"uk": "Ukrainian",
+		"ur": "Urdu",
+		"uz": "Uzbek",
+		"ve": "Venda",
+		"vi": "Vietnamese",
+		"vo": "Volapük",
+		"wa": "Walloon",
+		"wo": "Wolof",
+		"xh": "Xhosa",
+		"yi": "Yiddish",
+		"yo": "Yoruba",
+		"za": "Zhuang",
+		"zh": "Chinese",
+		"zu": "Zulu"
+	},
+	"ReferenceData": {
+		"Genders": {
+			"Male": "Male",
+			"Female": "Female"
+		},
+		"Months": {
+			"January": "January",
+			"February": "February",
+			"March": "March",
+			"April": "April",
+			"May": "May",
+			"June": "June",
+			"July": "July",
+			"August": "August",
+			"September": "September",
+			"October": "October",
+			"November": "November",
+			"December": "December"
+		},
+		"DateParts": {
+			"Day": "Day",
+			"Month": "Month",
+			"Year": "Year"
+		},
+		"DateRangeOptions": {
+			"Range": "Range",
+			"Before": "Before",
+			"After": "After"
+		},
+		"LivingValues": {
+			"Alive": "Alive",
+			"Deceased": "Deceased"
+		},
+		"FactTypes": {
+			"Categories": {
+				"Personal": "Personal",
+				"Death": "Death",
+				"Education": "Education",
+				"Military": "Military",
+				"Religious": "Religious",
+				"Other": "Other"
+			},
+			"ValueNames": {
+				"Description": "Description",
+				"Ethnicity": "Ethnicity",
+				"Religion": "Religion",
+				"Nationality": "Nationality",
+				"Residence": "Residence",
+				"Occupation": "Occupation",
+				"PhysicalDescription": "Physical Description",
+				"Retirement": "Retirement",
+				"CauseOfDeath": "Cause",
+				"Education": "Education",
+				"Apprenticeship": "Apprenticeship",
+				"MilitaryAward": "Military Award",
+				"Property": "Property",
+				"Country": "Country",
+				"Mission": "Mission"
+			},
+			"Birth": "Date of Birth",
+			"Ethnicity": "Ethnicity",
+			"Religion": "Religion",
+			"Nationality": "Nationality",
+			"Residence": "Residence",
+			"Adoption": "Adoption",
+			"NationalId": "National Id",
+			"Occupation": "Occupation",
+			"PhysicalDescription": "Physical Description",
+			"MultipleBirth": "Multiple Birth",
+			"Medical": "Medical",
+			"Retirement": "Retirement",
+			"Death": "Death",
+			"Burial": "Burial",
+			"Will": "Will",
+			"Funeral": "Funeral",
+			"Cremation": "Cremation",
+			"Stillbirth": "Stillbirth",
+			"Education": "Education",
+			"Apprenticeship": "Apprenticeship",
+			"MilitaryDraftRegistration": "Military Draft Registration",
+			"MilitaryService": "Military Service",
+			"MilitaryInduction": "Military Induction",
+			"MilitaryAward": "Military Award",
+			"MilitaryDischarge": "Military Discharge",
+			"Census": "Census",
+			"Property": "Property",
+			"LandTransaction": "Land Transaction",
+			"Living": "Living",
+			"Visit": "Visit",
+			"Emigration": "Emigration",
+			"Immigration": "Immigration",
+			"Naturalization": "Naturalization",
+			"Arrest": "Arrest",
+			"Imprisonment": "Imprisonment",
+			"Amnesty": "Amnesty",
+			"Pardon": "Pardon",
+			"Baptism": "Baptism",
+			"Circumcision": "Circumcision",
+			"Christening": "Christening",
+			"FirstCommunion": "First Communion",
+			"BarMitzvah": "Bar Mitzvah",
+			"BatMitzvah": "Bat Mitzvah",
+			"Confirmation": "Confirmation",
+			"AdultChristening": "Adult Christening",
+			"Blessing": "Blessing",
+			"Mission": "Mission",
+			"Ordination": "Ordination",
+			"Probate": "Probate",
+			"Excommunication": "Excommunication",
+			"Engagement": "Engagement",
+			"Other": "Other",
+			"Marriage": "Marriage",
+			"MarriageLicense": "Marriage License",
+			"MarriageContract": "Marriage Contract",
+			"MarriageNotice": "Marriage Notice",
+			"MarriageBahns": "Marriage Banns",
+			"CommonLawMarriage": "Common Law Marriage",
+			"CivilUnion": "Civil Union",
+			"DomesticPartnership": "Domestic Partnership",
+			"Separation": "Separation",
+			"Divorce": "Divorce",
+			"DivorceFiling": "Divorce Filing",
+			"Annulment": "Annulment",
+			"BiologicalParent": "Biological Parent",
+			"StepParent": "Step Parent",
+			"AdoptiveParent": "Adoptive Parent",
+			"GuardianParent": "Guardian Parent",
+			"FosterParent": "Foster Parent",
+			"SurrogateParent": "Surrogate Parent",
+			"SociologicalParent": "Sociological Parent"
+		},
+		"FactQualifiers": {
+			"Age": "Age",
+			"Cause": "Cause",
+			"Religion": "Religion"
+		},
+		"NameTypes": {
+			"BirthName": "Birth Name",
+			"AdoptiveName": "Adoptive Name",
+			"AlsoKnownAs": "Also Known As",
+			"ReligiousName": "Religious Name"
+		},
+		"NamePartTypes": {
+			"Prefix": "Prefix",
+			"Given": "Given",
+			"Middle": "Middle",
+			"Surname": "Surname",
+			"Maiden": "Maiden",
+			"Suffix": "Suffix",
+			"Familiar": "Familiar"
+		},
+		"NamePartQualifiers": {
+			"Particle": "Particle",
+			"Title": "Title",
+			"Primary": "Primary",
+			"Secondary": "Secondary",
+			"Postnom": "Postnom",
+			"Middle": "Middle",
+			"Familiar": "Familiar",
+			"Family": "Family",
+			"Religious": "Religious",
+			"Patronymic": "Patronymic",
+			"Matronymic": "Matronymic",
+			"Geographic": "Geographic",
+			"Occupational": "Occupational",
+			"Characteristic": "Characteristic",
+			"Maiden": "Maiden"
+		},
+		"RelationshipTypes": {
+			"Couple": "Couple",
+			"ParentChild": "Parent / Child"
+		},
+		"DetailedRelationshipTypes": {
+			"Mother": "Mother",
+			"Father": "Father",
+			"Son": "Son",
+			"Daughter": "Daughter",
+			"Brother": "Brother",
+			"Sister": "Sister",
+			"Wife": "Wife",
+			"Husband": "Husband",
+			"Partner": "Partner",
+			"ExWife": "Ex-Wife",
+			"ExHusband": "Ex-Husband",
+			"ExPartner": "Ex-Partner",
+			"Dates": {
+				"StartDateMarriage": "Date of Marriage",
+				"StartDateRelationship": "Relationship Start Date",
+				"EndDateMarriage": "Date of Divorce",
+				"EndDateRelationship": "Relationship End Date"
+			},
+			"Categories": {
+				"Parent": "Parent",
+				"Child": "Child",
+				"Sibling": "Sibling",
+				"Partner": "Partner",
+				"Ex-Partner": "Ex-Partner"
+			}
+		},
+		"RelationshipTypeQualifiers": {
+			"CivilUnion": "Civil Union",
+			"DomesticPartnership": "Domestic Partnership",
+			"CommonLawMarriage": "Common Law Marriage",
+			"Engagement": "Engaged",
+			"Other": "Other",
+			"Marriage": "Marriage",
+			"BiologicalParent": "Biological",
+			"StepParent": "Step",
+			"AdoptiveParent": "Adoptive",
+			"GuardianParent": "Guardian",
+			"FosterParent": "Foster",
+			"SurrogateParent": "Surrogate",
+			"SociologicalParent": "Sociological"
+		}
+	},
+	"Home": {
+		"HomeCtrl": {
+			"Slogan": "Preserve your place in time.",
+			"SubSlogan": "Document and share your family history",
+			"SubSubSlogan": "For free. And always will be!",
+			"Connect": "Connect",
+			"ConnectText": "Populate your tree with your relatives.",
+			"Collaborate": "Collaborate",
+			"CollaborateText": "Together we can uncover more.",
+			"Explore": "Explore",
+			"ExploreText": "Understand your place in time."
+		}
+	},
+	"Error": {
+		"Database": {
+			"Generic": "Oops, something went wrong. We'll look into that!",
+			"MissingCredentials": "You must provide an email and password to login.",
+			"LoginFail": "Failed to login user.",
+			"SaveFail": "Failed to save record",
+			"RemoveFail": "Failed to remove record",
+			"DoesNotExist": "The requested record does not exist",
+			"MailFailed": "Something went wrong. The email was not sent."
+		},
+		"LoginRequired": "You must be logged in to access this part of the application."
+	},
+	"rsmDateField": {
+		"Date": "Date",
+		"DateRange": "Date Range",
+		"To": "To",
+		"Optional": "Optional"
+	},
+	"rsmFullTextField": {
+		"FullText": "Full Name"
+	},
+	"rsmNamePartField": {
+		"Qualifier": "Qualifier",
+		"Optional": "Optional",
+		"RequiredValidation": "You must enter a name."
+	},
+	"rsmPlaceField": {
+		"Place": "Location",
+		"PlaceValidation": "Please select a place from the list.",
+		"Optional": "Optional"
+	},
+	"rsmRelationshipTypeField": {
+		"RelationshipType": "Relationship Type"
+	},
+	"rsmTextField": {
+		"Language": "Language",
+		"ValueValidation": "You cannot have two values for the same language."
+	},
+	"Person": {
+		"PersonViewCtrl": {
+			"Details": "Details",
+			"Person": "Person",
+			"Email": "Email",
+			"Invite": "Invite",
+			"SendInvite": "Send",
+			"Invited": "Invite Successfully Sent",
+			"EmailValidation": "@:Register.RegisterCtrl.EmailValidation",
+			"RecordUpdated": "Record successfully updated.",
+			"Edit": "Edit",
+			"Facts": "Facts",
+			"Relationships": "Relationships",
+			"Images": "Images (Coming soon)",
+			"Sources": "Sources (Coming soon)",
+			"Tales": "Tales (Coming soon)",
+			"Connections": "Connections",
+			"Filters": "Filters",
+			"ProfileChanges": "Profile Changes",
+			"Explore": "Explore your tree"
+		},
+		"PersonEditCtrl": {
+			"Title": "Edit",
+			"Gender": "Gender",
+			"Living": "Living",
+			"Names": "Names",
+			"KnownBy": "Known As",
+			"Name": "Name",
+			"Language": "Language"
+		},
+		"RelationshipCtrl": {
+			"Parents": "Parents",
+			"Children": "Children",
+			"Partners": "Partners",
+			"Relationships": "Relationships",
+			"RelationshipDetails": "Relationship Details",
+			"NoRelationships": "You do not have any relationships yet.",
+			"CreateFirst": "Create your first Relationship"
+		},
+		"PersonHistoryCtrl": {
+			"Title": "History"
+		},
+		"PersonPathCtrl": {
+			"Title": "Connections",
+			"RelatedPerson": "Related Person",
+			"NoPath": "The selected people are not related",
+			"HelpText": "Search for a person to find the connection"
+		}
+	},
+	"Name": {
+		"NameCtrl": {
+			"Type": "Type",
+			"TitleDescription": "Title",
+			"Optional": "optional",
+			"GivenName": "Given",
+			"MiddleName": "Middle",
+			"Surname": "Surname",
+			"Maiden": "Maiden Name",
+			"Suffix": "Suffix",
+			"Familiar": "Nickname / AKA",
+			"Submit": "Submit",
+			"Remove": "Remove"
+		},
+		"CreateCtrl": {
+			"Title": "Create a new name"
+		}
+	},
+	"NameForm": {
+		"CreateCtrl": {
+			"Title": "Create"
+		},
+		"Error": {
+			"InvalidUpdateRequest": "The changes to the name are not valid.",
+			"PartsRequired": "You must provide at least one name part to create a name form.",
+			"CannotRemovePrimary": "Invalid name remove request. You cannot remove a primary name.",
+			"DuplicateNameForm": "Invalid name. The selected name type and language combination already exist."
+		}
+	},
+	"Fact": {
+		"FactCtrl": {
+			"Type": "Type",
+			"Submit": "@:Name.NameCtrl.Submit",
+			"Remove": "@:Name.NameCtrl.Remove"
+		},
+		"CreateCtrl": {
+			"Title": "Create a new fact"
+		},
+		"Error": {
+			"PlaceExists": "Invalid place creation request. A location already exists against the fact.",
+			"OnePlaceNameLang": "Invalid place name request. A name already exists for the specified language.",
+			"OneUniqueType": "Invalid fact creation request. Fact type already exists. Please update the existing version.",
+			"CannotUpdateType": "Invalid fact update request. You cannot update a fact type.",
+			"InvalidPersonType": "Invalid fact creation request. The fact type is not valid for a person.",
+			"InvalidCoupleType": "Invalid fact creation request. The fact type is not valid for a couple.",
+			"InvalidParentChildType": "Invalid fact creation request. The fact type is not valid for a parent child relationship.",
+			"InvalidParentChildValue": "Invalid fact creation request. Parent Child relationship value is not valid.",
+			"OneQualifierType": "Invalid qualifier request. Qualifier already exists. Please update the existing version.",
+			"CannotUpdateQualifier": "Invalid qualifier update request. You cannot update a qualifier name.",
+			"InvalidRelType": "Invalid fact creation request. The fact relType must match the entity which the fact is being created against.",
+			"OneFactValueLang": "Invalid fact value request. A fact value already exists for the specified language.",
+			"InvalidCreateRequest": "Invalid fact creation request.",
+			"InvalidUpdateRequest": "Invalid fact update request.",
+			"DataRequired": "You must populate some data against the fact."
+		}
+	},
+	"Date": {
+		"Error": {
+			"InvalidDate": "The date entered is not valid.",
+			"InvalidCreateRequest": "Invalid date creation request.",
+			"InvalidUpdateRequest": "Invalid date update request."
+		}
+	},
+	"TextValue": {
+		"Error": {
+			"InvalidCreateRequest": "Invalid value creation request.",
+			"InvalidUpdateRequest": "Invalid value update request."
+		}
+	},
+	"Qualifier": {
+		"Error": {
+			"InvalidCreateRequest": "Invalid qualifier creation request.",
+			"InvalidUpdateRequest": "Invalid qualifier update request."
+		}
+	},
+	"Place": {
+		"Error": {
+			"InvalidUpdateRequest": "Invalid value creation request."
+		}
+	},
+	"Relationship": {
+		"CreateCtrl": {
+			"Title": "Create a new relationship",
+			"Type": "@:Name.NameCtrl.Type",
+			"Qualifier": "Qualifier",
+			"Relationship": "Relationship",
+			"BirthDetails": "Birth Details",
+			"DeathDetails": "Death Details",
+			"CurrentDetails": "Current Details",
+			"RelationshipDetails": "Relationship Details",
+			"Confirm": "Confirm",
+			"ParentsOptionalPlural": "Parent(s)",
+			"PartnersOptionalPlural": "Partner(s)",
+			"NewPerson": "New Person",
+			"ExistingPerson": "Existing Person",
+			"Living": "Living",
+			"Optional": "Optional",
+			"BirthLocation": "Birth Location",
+			"DateofDeath": "Date of Death",
+			"BurialLocation": "Burial Location",
+			"CurrentLocation": "Current Location",
+			"Submit": "Submit",
+			"PotentialRelationships": "Potential Relationships",
+			"EmailHelp": "Grow your tree faster. Invite"
+		},
+		"Error": {
+			"SiblingRequiresParent": "You must have one parent for a sibling relationship.",
+			"CannotUpdateType": "Invalid relationship update request. You cannot update a relationship type.",
+			"InvalidCreateRequest": "Invalid relationship creation request.",
+			"InvalidUpdateRequest": "Invalid relationship update request.",
+			"CoupleStartDate": "You must enter a date of birth for the related person or a start date for the relationship."
+		}
+	},
+	"History": {
+		"Actions": {
+			"create": "created a ",
+			"update": "updated a ",
+			"remove": "removed a ",
+			"Against": "against ",
+			"OnRecord": "on record",
+			"Is": " is the ",
+			"Of": " of "
+		},
+		"Person": "record",
+		"Fact": "fact",
+		"FactValue": "value",
+		"FactDate": "date",
+		"Place": "location",
+		"Name": "name",
+		"NamePart": "part",
+		"Relationship": "relationship",
+		"PARENT": "parent",
+		"CHILD": "child",
+		"COUPLE": "partner",
+		"Start": "Start Date",
+		"End": "End Date"
+	},
+	"Policies": {
+		"PoliciesCtrl": {
+			"Terms": "Terms of Use",
+			"TermsShort": "Terms",
+			"Privacy": "Privacy Policy",
+			"PrivacyShort": "Privacy",
+			"Licensing": "Licensing Policy",
+			"Guidelines": "Behavioural Guidelines",
+			"Disputes": "Dispute Resolution"
+		}
+	},
+	"Project": {
+		"ProjectViewCtrl": {
+			"TypeName": "Type a name"
+		},
+		"ProjectCreateCtrl": {
+			"Title": "Create a new project"
+		},
+		"CollapseLink": {
+			"Title": "Which relationship do you want to hide?",
+			"Child": "Children",
+			"Couple": "Partners",
+			"Parent": "Parents",
+			"Ok": "OK",
+			"Cancel": "Cancel"
+		},
+		"ExpandLink": {
+			"Title": "Which relationship do you want to show?",
+			"Ok": "OK",
+			"Cancel": "Cancel"
+		},
+		"Error": {
+			"UserRequired": "You must provide a user id in order to retrieve a list of projects.",
+			"RequiredFields": "You must provide a project name and the first name and last name of the primary person in the project.",
+			"NotAuthorised": "You must be a member of a project to update the project.",
+			"InvalidCreateRequest": "Invalid project creation request.",
+			"InvalidUpdateRequest": "Invalid project update request."
+		},
+		"DefaultTreeName": "My Tree",
+		"UntitledProject": "Untitled Project"
+	},
+	"Login": {
+		"LoginCtrl": {
+			"Title": "Login",
+			"Email": "@:Register.RegisterCtrl.Email",
+			"EmailValidation": "@:Register.RegisterCtrl.EmailValidation",
+			"RequiredValidation": "@:Register.RegisterCtrl.RequiredValidation",
+			"Password": "@:Register.RegisterCtrl.Password",
+			"PasswordValidation": "@:Register.RegisterCtrl.PasswordValidation",
+			"ForgotPassword": "Forgot your password?",
+			"RememberMe": "Keep me signed in",
+			"ResendActivationLink": "Resend Activation Link",
+			"SubmitButton": "Sign In",
+			"Cancel": "Cancel",
+			"ActivationKeySent": "An activation code has been sent to you. Please check your email to complete the activation process."
+		},
+		"LoginToolbarCtrl": {
+			"Profile": "@:Account.AccountCtrl.Profile",
+			"Password": "@:Account.AccountCtrl.Password",
+			"Logout": "Logout",
+			"Login": "Log In",
+			"Register": "Register"
+		},
+		"Error": {
+			"NotAuthorised": "You are not authorised to access this section.",
+			"NotAuthenticated": "You must be logged in to access this section. Please log in.",
+			"LoginFailed": "Login was unsuccessful. Please try again.",
+			"NotActive": "The email address entered is registered but not active. Click on the Resend Activation Link below.",
+			"NotRegistered": "The email address entered is not registered. Please Sign Up.",
+			"IncorrectPassword": "The password entered is incorrect.",
+			"AccountSuspended": "Your account has been locked due to too many incorrect login attempts. Please try again in 5 minutes.",
+			"UserDeactivated": "The email address entered is associated with a deactivated account.",
+			"Required": "You must be logged in to access this part of the application."
+		}
+	},
+	"Register": {
+		"RegisterCtrl": {
+			"Title": "Sign Up",
+			"FirstName": "First Name",
+			"RequiredValidation": "Required!",
+			"LastName": "Last Name",
+			"Email": "Email",
+			"EmailValidation": "Please enter an email address.",
+			"Password": "Password",
+			"PasswordValidation": "Password must be a minimum of 6 characters.",
+			"Birthday": "Birthday",
+			"BirthdayValidation": "You must enter a birthday.",
+			"Gender": "Gender",
+			"DateOfBirth": "Date of Birth",
+			"GenderValidation": "Please select a gender.",
+			"SubmitButton": "Sign up - it's free!",
+			"SocialSignupOption": "Or sign up with",
+			"UserAgreement": "User Agreement",
+			"UserAgreementIntro": "By clicking Sign Up, you confirm that you agree to our ",
+			"UserAgreementText": "<p>Please read these terms of use carefully before you start to use the site. By using our site, you indicate that you accept these terms of use and that you agree to abide by them. If you do not agree to these terms of use, please refrain from using our site.</p><h4>RELIANCE ON INFORMATION POSTED &amp; DISCLAIMER</h4><p>The materials contained on our site are provided for general information purposes only and do not claim to be or constitute legal or other professional advice and shall not be relied upon as such.</p> <p>We do not accept any responsibility for any loss which may arise from accessing or reliance on the information on this site and to the fullest extent permitted by English law, we exclude all liability for loss or damages direct or indirect arising from use of this site.</p><h4>INFORMATION ABOUT US</h4><p>[WEBSITE ADDRESS] is a site operated by [YOUR COMPANY NAME] (\"We\"); we are a [PartnerSHIP / COMPANY / INDIVIDUAL] registered in England and Wales under registration number [REG NO.]. Our registered office is [OFFICE ADDRESS]. We have other offices at [OTHER OFFICES (IF APPLICABLE)]. Our VAT number is [VAT NUMBER].</p><p>We are regulated by the [REGULATORY BODY] and authorised and regulated by the [REGULATORY BODY].</p><h4>ACCESSING OUR SITE</h4><p>Access to our site is permitted on a temporary basis, and we reserve the right to withdraw or amend the service we provide on our site without notice (see below). We will not be liable if for any reason our site is unavailable at any time or for any period.</p><h4>INTELLECTUAL Property RIGHTS</h4><p>We are the owner or the licensee of all intellectual property rights in our site, and in the material published on it. Those works are protected by copyright laws and treaties around the world. All such rights are reserved.</p><p>You may print off one copy, and may download extracts, of any page(s) from our site for your personal reference and you may draw the attention of others within your organisation to material posted on our site.</p><p>You must not modify the paper or digital copies of any materials you have printed off or downloaded in any way, and you must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text.</p><p>Our status (and that of any identified contributors) as the authors of material on our site must always be acknowledged.</p><p>You must not use any part of the materials on our site for commercial purposes without obtaining a licence to do so from us or our licensors.</p><p>If you print off, copy or download any part of our site in breach of these terms of use, your right to use our site will cease immediately and you must, at our option, return or destroy any copies of the materials you have made.</p><h4>OUR SITE CHANGES REGULARLY</h4><p>We aim to update our site regularly, and may change the content at any time. If the need arises, we may suspend access to our site, or close it indefinitely. Any of the material on our site may be out of date at any given time, and we are under no obligation to update such material.</p><h4>OUR LIABILITY</h4><p>The material displayed on our site is provided without any guarantees, conditions or warranties as to its accuracy. To the extent permitted by law, we, and third parties connected to us hereby expressly exclude:</p><ul><li>All conditions, warranties and other terms which might otherwise be implied by statute, common law or the law of equity.</li><li>Any liability for any direct, indirect or consequential loss or damage incurred by any user in connection with our site or in connection with the use, inability to use, or results of the use of our site, any websites linked to it and any materials posted on it, including, without limitation any liability for:</li><ul><li>loss of income or revenue;</li><li>loss of business;</li><li>loss of profits or contracts;</li><li>loss of anticipated savings;</li><li>loss of data;</li><li>loss of goodwill;</li><li>wasted management or office time; and</li></ul></ul><p>for any other loss or damage of any kind, however arising and whether caused by tort (including negligence), breach of contract or otherwise, even if foreseeable, provided that this condition shall not prevent claims for loss of or damage to your tangible property or any other claims for direct financial loss that are not excluded by any of the categories set out above.</p><p>This does not affect our liability for death or personal injury arising from our negligence, nor our liability for fraudulent misrepresentation or misrepresentation as to a fundamental matter, nor any other liability which cannot be excluded or limited under applicable law.</p><h4>INFORMATION ABOUT YOU AND YOUR VisitS TO OUR SITE</h4><p>We process information about you in accordance with our privacy policy [INSERT A Link TO SITE'S PRIVACY POLICY]. By using our site, you consent to such processing and you warrant that all data provided by you is accurate.</p><h4>VIRUSES, HACKING AND Other OFFENCES</h4><p>You must not misuse our site by knowingly introducing viruses, trojans, worms, logic bombs or other material which is malicious or technologically harmful. You must not attempt to gain unauthorised access to our site, the server on which our site is stored or any server, computer or database connected to our site. You must not attack our site via a denial-of-service attack or a distributed denial-of service attack.</p><p>By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use our site will cease immediately.</p><p>We will not be liable for any loss or damage caused by a distributed denial-of-service attack, viruses or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of our site or to your downloading of any material posted on it, or on any website linked to it.</p><h4>LinkS FROM OUR SITE</h4><p>Where our site contains links to other sites and resources provided by third parties, these links are provided for your information only. We have no control over the contents of those sites or resources, and accept no responsibility for them or for any loss or damage that may arise from your use of them. When accessing a site via our website we advise you check their terms of use and privacy policies to ensure compliance and determine how they may use your information.</p><h4>JURISDICTION AND APPLICABLE LAW</h4><p>The English courts will have non-exclusive jurisdiction over any claim arising from, or related to, a visit to our site.</p><p>These terms of use and any dispute or claim arising out of or in connection with them or their subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of England and Wales.</p><h4>TRADE MARKS</h4><p>[TRADEMARK NAME] is a UK registered trade mark of [COMPANY NAME].</p><h4>VARIATIONS</h4><p>We may revise these terms of use at any time by amending this page. You are expected to check this page from time to time to take notice of any changes we made, as they are binding on you. Some of the provisions contained in these terms of use may also be superseded by provisions or notices published elsewhere on our site.</p><h4>YOUR CONCERNS</h4><p>If you have any concerns about material which appears on our site, please contact [Email ADDRESS].</p><p>Thank you for visiting our site.</p>",
+			"Close": "Close",
+			"RegistrationSuccessText": "Please check your email to finish the registration process.",
+			"RegistrationSuccessTitle": "You are now registered."
+		},
+		"ResendActivationCtrl": {
+			"Title": "Resend Activation",
+			"SubmitButton": "Send Activation Code",
+			"Or": "or ",
+			"Cancel": "cancel",
+			"ActivationKeySent": "An activation code has been sent to you. Please check your email to complete the activation process.",
+			"Email": "@:Register.RegisterCtrl.Email",
+			"EmailValidation": "@:Register.RegisterCtrl.EmailValidation",
+			"RequiredValidation": "@:Register.RegisterCtrl.RequiredValidation"
+		},
+		"ForgotPasswordCtrl": {
+			"Title": "Forgot Password",
+			"SubmitButton": "Send Reset Link",
+			"ResetLinkSent": "A password reset link has been sent to you. Please check your email to complete the reset password process.",
+			"Email": "@:Register.RegisterCtrl.Email",
+			"EmailValidation": "@:Register.RegisterCtrl.EmailValidation",
+			"Or": "@:Register.ResendActivationCtrl.Or",
+			"Cancel": "@:Register.ResendActivationCtrl.Cancel"
+		},
+		"ChangeForgottenPasswordCtrl": {
+			"Title": "Forgot Password",
+			"ConfirmPassword": "Confirm Password",
+			"ConfirmPasswordValidation": "Passwords do not match.",
+			"SubmitButton": "Change Password",
+			"PasswordUpdated": "@:Account.AccountPasswordCtrl.PasswordUpdated",
+			"Password": "@:Register.RegisterCtrl.Password",
+			"PasswordValidation": "@:Register.RegisterCtrl.PasswordValidation",
+			"RequiredValidation": "@:Register.RegisterCtrl.RequiredValidation",
+			"Or": "@:Register.ResendActivationCtrl.Or",
+			"Cancel": "@:Register.ResendActivationCtrl.Cancel"
+		},
+		"Activate": {
+			"Success": "Your account has been successfully activated.",
+			"Error": "Your account activation failed. Please try again."
+		},
+		"Error": {
+			"UserActive": "The email address entered is already active.",
+			"UserRegistered": "The email address entered is already registered.",
+			"InvalidActivationKey": "Thats not a valid activation link!",
+			"UsedActivationKey": "Your activation link has already been used. Please Login.",
+			"InvalidPasswordKey": "Cannot find user for selected password reset link. Click on the link in your email again or request a new one below.",
+			"UsedPasswordKey": "Your password reset link has already been used. Please request a new one below.",
+			"ExpiredPasswordKey": "Your password reset link has expired."
+		}
+	},
+	"Account": {
+		"AccountCtrl": {
+			"Profile": "General Settings",
+			"Password": "@:Register.RegisterCtrl.Password"
+		},
+		"AccountViewCtrl": {
+			"Title": "Account",
+			"ChangeConfirmation": "You need to enter your password to confirm these changes",
+			"Edit": "Edit",
+			"Update": "Update",
+			"NoPasswordText": "As you have registered through a social site you have not setup a password for this site yet. If you want to edit any profile details please click on the button below to request a password.",
+			"AccountUpdated": "Your account has been successfully updated.",
+			"FirstName": "@:Register.RegisterCtrl.FirstName",
+			"RequiredValidation": "@:Register.RegisterCtrl.RequiredValidation",
+			"LastName": "@:Register.RegisterCtrl.LastName",
+			"Email": "@:Register.RegisterCtrl.Email",
+			"EmailValidation": "@:Register.RegisterCtrl.EmailValidation",
+			"Password": "@:Register.RegisterCtrl.Password",
+			"Gender": "@:Register.RegisterCtrl.Gender",
+			"GenderValidation": "@:Register.RegisterCtrl.GenderValidation",
+			"Or": "@:Register.ResendActivationCtrl.Or",
+			"Cancel": "@:Register.ResendActivationCtrl.Cancel"
+		},
+		"AccountPasswordCtrl": {
+			"Title": "Account: Edit Password",
+			"CurrentPassword": "Current Password",
+			"NewPassword": "New Password",
+			"ConfirmNewPassword": "Confirm New Password",
+			"RequestPassword": "Request a password",
+			"RequestPasswordText": "As you have registered through a social site you have not setup a password for this site yet. Click on the button below and we'll send you out a link to create a password.",
+			"SendPasswordLink": "Send Password Link",
+			"PasswordUpdated": "Password successfully updated.",
+			"PasswordLinkSent": "The passport link has been sent. Please check your email.",
+			"RequiredValidation": "@:Register.RegisterCtrl.RequiredValidation",
+			"PasswordValidation": "@:Register.RegisterCtrl.PasswordValidation",
+			"ConfirmPasswordValidation": "@:Register.ChangeForgottenPasswordCtrl.ConfirmPasswordValidation",
+			"Update": "@:Account.AccountViewCtrl.Update"
+		},
+		"Error": {
+			"InvalidFirstName": "First Name is required.",
+			"InvalidLastName": "Last Name is required.",
+			"InvalidEmail": "Valid email required.",
+			"InvalidPassword": "Password is required and must be between 6 and 128 characters.",
+			"InvalidGender": "Gender is required.",
+			"InvalidBirthday": "Birthday is required.",
+			"PasswordMatch": "The passwords that you entered do not match. Please try again.",
+			"NoPassword": "You registered through a social login. Please login using the social links below."
+		}
+	},
+	"Profile": {
+		"ProfileCtrl": {
+			"Profile": "Profile",
+			"Message": "Message",
+			"Activity": "Activity",
+			"Joined": "Joined"
+		},
+		"ProfileMessageCtrl": {
+			"MessageSent": "Your message has been sent"
+		}
+	}
+}
